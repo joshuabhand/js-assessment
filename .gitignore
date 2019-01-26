@@ -1,2 +1,6 @@
 npm-debug.log
 node_modules/
+**.xml
+**.iml
+.idea/**
+package-lock.json
